@@ -2,7 +2,7 @@
 
 # Capstone Project - Module 2 - Supermarket Customer
 
-# A.BACKGROUND STORY/CONTEXT
+# Background story/context
 Supermarket X ingin melakukan efisiensi penjualan agar dapat meningkatkan revenue toko di tahun depan. Supermarket ini memiliki data konsumen beserta pembeliannya dalam 2 tahun terakhir. Untuk dapat mencapai tersebut, Supermarket ini ingin menganalisa perilaku pembelian konsumennya. <br> <br>
 Kamu diminta untuk menganalisa data pelanggan tersebut dan diharapkan memberikan saran strategis ke depan bagi Supermarket X.
 
